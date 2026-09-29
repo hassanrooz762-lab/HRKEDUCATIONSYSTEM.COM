@@ -1,0 +1,6 @@
+{
+  "name": "HRK Education System",
+  "description": "Comprehensive school management portal for HRK Education System, Peshawar Cantt. Featuring student results transcript, monthly fee records, official notifications, and secure staff management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
